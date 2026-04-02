@@ -1,5 +1,6 @@
-## Hi there 👋
+## _Voila_ It's me Shrey 🥳
 
+Currently Learning fullstack Web development
 <!--
 **shreysatija1/shreysatija1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
